@@ -29,7 +29,7 @@ channel_link = "https://chat.whatsapp.com/JCSt4tXgRtnEs9elNLuvFq?mode=hqrt2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ASIM BAPU LUCKY223786823638004 2044 UPDATE"
+    "ASIM BAPU LUCKY22323638004 2044 UPDATE"
 ]
 
 # ANSI color codes
@@ -274,7 +274,6 @@ def ____banner____():
 
     # ASCII Logo
     LUCKY_logo = r"""
-
 
 
 ██╗░░░░░██╗░░░██╗░█████╗░██╗░░██╗██╗░░░██╗
